@@ -1,0 +1,25 @@
+{
+  "name": "searchparam",
+  "version": "1.0.0",
+  "description": "Search param with hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "mithun",
+  "license": "ISC",
+  "dependencies": {
+    "@tanstack/react-query": "^5.15.3",
+    "@vitejs/plugin-react": "^4.2.1",
+    "install": "^0.13.0",
+    "npm": "^10.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.1"
+  },
+  "devDependencies": {
+    "vite": "^5.0.10"
+  }
+}
